@@ -1,2 +1,9 @@
-lab_test
+LAB repo
 ========
+
+Dedicated for testing purpose only
+
+
+Limits
+----
+Nothing
